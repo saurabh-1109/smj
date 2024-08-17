@@ -1,0 +1,2 @@
+# smj
+my first repo
